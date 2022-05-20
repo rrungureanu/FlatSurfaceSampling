@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: surface_detection
+Description: Description of surface_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/silverback/novoDepth_ws/src/surface_detection/cmake-build-debug/devel/setup.sh
